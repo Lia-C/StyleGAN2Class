@@ -22,7 +22,7 @@ To-do before this class:
 1. Bookmark this page!
 2. Fill out the [pre-class survey](https://drive.google.com/open?id=1VYk7B0Chd534rVvE_1c4FTsRNk_ftWkB4qo2TPmM1X4).
 3. Join our [Slack](https://ml-images.slack.com/) and poke around! For our class, we will be communicating through the `#stylegan2-deepdive` channel.
-4. Introduce yourself to your classmates in the `##stylegan2-deepdive` channel. Say hi to each other! Some starter questions: Where are you located? What do you do? What experience do you have already? What do you want to learn or make? And links to your IG / twitter / website. :)
+4. Introduce yourself to your classmates in the `#stylegan2-deepdive` channel. Say hi to each other! Some starter questions: Where are you located? What do you do? What experience do you have already? What do you want to learn or make? And links to your IG / twitter / website. :)
 5. Read our class [Code of Conduct and Zoom Guidelines](https://docs.google.com/document/d/1Q6X4_uEdlx3Xo9ZM73nlltc690DcP4geSjImUEA7K98/edit?usp=sharing).
 
 
