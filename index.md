@@ -2,7 +2,7 @@
 
 # Overview
 
-[Artificial Images: RunwayML Deep Dive](https://bustbright.square.site/product/machine-learning-class-stylegan/286) is a course for image makers (graphic designers, artists, illustrators and photographer) to learn about StyleGAN2. In this course you will learn about the history of GANs, the basics of StyleGAN and advanced features to get the most out of any StyleGAN2 model. Advanced topics will include training non-square models, mixing datasets, modifying training commands and a number of interpolation methods (image projection, vector manipulation, etc). 
+[Artificial Images: StyleGAN2 Deep Dive](https://bustbright.square.site/product/machine-learning-class-stylegan/286) is a course for image makers (graphic designers, artists, illustrators and photographer) to learn about StyleGAN2. In this course you will learn about the history of GANs, the basics of StyleGAN and advanced features to get the most out of any StyleGAN2 model. Advanced topics will include training non-square models, mixing datasets, modifying training commands and a number of interpolation methods (image projection, vector manipulation, etc). 
 
 Class meets on Sundays Apr 12 - May 10, at 12:30pm - 2pm EDT (1.5 hour sessions).
 
