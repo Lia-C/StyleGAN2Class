@@ -19,7 +19,7 @@ Taught by [Derrick Schultz](https://twitter.com/dvsch?lang=en) and TA [Lia Colem
 # Week 1, April 12
 
 To-do before this class:
-1. Set up your Google Cloud Platform (GCP) server. Instructions are in the class welcome email. Don’t worry, this is the longest task in this list, everything else should be a breeze!
+1. Set up your Google Cloud Platform (GCP) server. This is what we will be using in class for GPUs. Here are [instructions on how to set up GCP](https://www.youtube.com/watch?v=CBPJh33T3yQ). Expect this to take 30 minutes in one sitting. Don’t worry, this is the longest task in this list, everything else should be a breeze!
 2. Bookmark this page!
 3. Fill out the [pre-class survey](https://drive.google.com/open?id=1VYk7B0Chd534rVvE_1c4FTsRNk_ftWkB4qo2TPmM1X4).
 4. Join our [Slack](https://ml-images.slack.com/) and poke around! For our class, we will be communicating through the `#stylegan2-deepdive` channel.
