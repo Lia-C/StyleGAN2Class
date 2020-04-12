@@ -33,6 +33,10 @@ To-do before this class:
 - Class Video (will be linked after class)
 - Notes (will be linked after class)
 
+#### Homework
+- Install StyleGAN2 libraries on GCP using [these instructions](https://github.com/dvschultz/ai/blob/master/StyleGAN-GCP.md)
+- Start to build your dataset. Check out the [dataset-tools playlist on YouTube](https://www.youtube.com/watch?v=faS0pmd71fk&list=PLWuCzxqIpJs9v81cWpRC7nm94eTMtohHq) for help.
+
 # Week 2, April 19
 
 # Week 3, April 26
