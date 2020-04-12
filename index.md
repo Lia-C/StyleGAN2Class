@@ -31,6 +31,7 @@ To-do before this class:
 
 - [Week 1 Slides](https://drive.google.com/open?id=1PkmZMbNHE29WgTiS__LkSHr8pIn56-baOWs3QPnktOo)
 - [First Half of Week 2 Video](https://drive.google.com/open?id=1TXUjXuoXJJkzOeX-CUnN-XYsDDW8FfmT)
+- Second Half presentations, re-recorded (because Derrick is an idiot)
   - [What is a GAN?](https://youtu.be/e1Ed3LGQpiA)
   - [A Brief History of GANs](https://youtu.be/0d2WsXtQHR8)
 - Notes (will be linked after class)
