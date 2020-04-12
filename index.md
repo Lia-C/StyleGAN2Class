@@ -30,7 +30,9 @@ To-do before this class:
 ### Class Materials
 
 - [Week 1 Slides](https://drive.google.com/open?id=1PkmZMbNHE29WgTiS__LkSHr8pIn56-baOWs3QPnktOo)
-- Class Video (will be linked after class)
+- [First Half of Week 2 Video](https://drive.google.com/open?id=1TXUjXuoXJJkzOeX-CUnN-XYsDDW8FfmT)
+  - [What is a GAN?](https://youtu.be/e1Ed3LGQpiA)
+  - [A Brief History of GANs](https://youtu.be/0d2WsXtQHR8)
 - Notes (will be linked after class)
 
 #### Homework
