@@ -29,7 +29,7 @@ To-do before this class:
 
 ### Class Materials
 
-- Slides (will be linked after class)
+- [Week 1 Slides](https://drive.google.com/open?id=1PkmZMbNHE29WgTiS__LkSHr8pIn56-baOWs3QPnktOo)
 - Class Video (will be linked after class)
 - Notes (will be linked after class)
 
