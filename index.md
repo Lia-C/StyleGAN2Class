@@ -34,11 +34,17 @@ To-do before this class:
 - Second Half presentations, re-recorded (because Derrick is an idiot)
   - [What is a GAN?](https://youtu.be/e1Ed3LGQpiA)
   - [A Brief History of GANs](https://youtu.be/0d2WsXtQHR8)
+  - [StyleGAN2 Inspiration](https://youtu.be/lYoIn1aL37s)
 - Notes (will be linked after class)
 
 #### Homework
 - Install StyleGAN2 libraries on GCP using [these instructions](https://github.com/dvschultz/ai/blob/master/StyleGAN-GCP.md)
 - Start to build your dataset. Check out the [dataset-tools playlist on YouTube](https://www.youtube.com/watch?v=faS0pmd71fk&list=PLWuCzxqIpJs9v81cWpRC7nm94eTMtohHq) for help.
+
+#### Notes from class
+- Robert Luxemburg’s [StyleGAN2 audio reactive video](https://twitter.com/robertluxemburg/status/1216442061060300800)
+- [My remix of Bruce Conner’s _Breakaway_](https://www.instagram.com/p/B9Zu04zB--Y/)
+- [Len Lye remix](https://www.youtube.com/watch?v=LQfM-cEY_TI&t=4s)
 
 # Week 2, April 19
 
