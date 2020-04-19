@@ -35,7 +35,7 @@ To-do before this class:
   - [What is a GAN?](https://youtu.be/e1Ed3LGQpiA)
   - [A Brief History of GANs](https://youtu.be/0d2WsXtQHR8)
   - [StyleGAN2 Inspiration](https://youtu.be/lYoIn1aL37s)
-- [Notes](https://www.notion.so/Setup-History-of-GANs-Inspiration-0cd4ebe5d70a45589c6ca2267dee64a3)
+- [Week 1 Notes](https://www.notion.so/Setup-History-of-GANs-Inspiration-0cd4ebe5d70a45589c6ca2267dee64a3)
 
 #### Homework
 - Install StyleGAN2 libraries on GCP using [these instructions](https://github.com/dvschultz/ai/blob/master/StyleGAN-GCP.md)
@@ -47,6 +47,15 @@ To-do before this class:
 - [Len Lye remix](https://www.youtube.com/watch?v=LQfM-cEY_TI&t=4s)
 
 # Week 2, April 19
+### Class Materials
+- Week 2 Slides
+- Class Video
+- [Week 2 Notes](https://www.notion.so/Training-StyleGAN2-abf6f824186b4920ae70b83ea362a724)
+
+#### Homework
+- Finish your dataset.
+- Start training your model! Follow this [video](https://www.youtube.com/watch?v=Ij1dqSVR89M) to train in GCP.
+
 
 # Week 3, April 26
 
