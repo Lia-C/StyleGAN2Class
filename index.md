@@ -35,7 +35,7 @@ To-do before this class:
   - [What is a GAN?](https://youtu.be/e1Ed3LGQpiA)
   - [A Brief History of GANs](https://youtu.be/0d2WsXtQHR8)
   - [StyleGAN2 Inspiration](https://youtu.be/lYoIn1aL37s)
-- Notes (will be linked after class)
+- [Notes](https://www.notion.so/Setup-History-of-GANs-Inspiration-0cd4ebe5d70a45589c6ca2267dee64a3)
 
 #### Homework
 - Install StyleGAN2 libraries on GCP using [these instructions](https://github.com/dvschultz/ai/blob/master/StyleGAN-GCP.md)
