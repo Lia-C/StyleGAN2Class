@@ -37,11 +37,11 @@ To-do before this class:
   - [StyleGAN2 Inspiration](https://youtu.be/lYoIn1aL37s)
 - [Week 1 Notes](https://www.notion.so/Setup-History-of-GANs-Inspiration-0cd4ebe5d70a45589c6ca2267dee64a3)
 
-#### Homework
+### Homework
 - Install StyleGAN2 libraries on GCP using [these instructions](https://github.com/dvschultz/ai/blob/master/StyleGAN-GCP.md)
 - Start to build your dataset. Check out the [dataset-tools playlist on YouTube](https://www.youtube.com/watch?v=faS0pmd71fk&list=PLWuCzxqIpJs9v81cWpRC7nm94eTMtohHq) for help.
 
-#### Notes from class
+### Notes from class
 - Robert Luxemburg’s [StyleGAN2 audio reactive video](https://twitter.com/robertluxemburg/status/1216442061060300800)
 - [My remix of Bruce Conner’s _Breakaway_](https://www.instagram.com/p/B9Zu04zB--Y/)
 - [Len Lye remix](https://www.youtube.com/watch?v=LQfM-cEY_TI&t=4s)
@@ -52,7 +52,7 @@ To-do before this class:
 - Class Video
 - [Week 2 Notes](https://www.notion.so/Training-StyleGAN2-abf6f824186b4920ae70b83ea362a724)
 
-#### Homework
+### Homework
 - Finish your dataset.
 - Start training your model! Follow this [video](https://www.youtube.com/watch?v=Ij1dqSVR89M) to train in GCP.
 
