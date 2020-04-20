@@ -48,8 +48,8 @@ To-do before this class:
 
 # Week 2, April 19
 ### Class Materials
-- Week 2 Slides
-- Class Video
+- [Week 2 Slides](https://docs.google.com/presentation/d/1seAR2IpmHEElKu1Ve8fIZxNsoGRIjwcdTI7LVbvJZPw/edit?usp=sharing)
+- [Week 2 Video](https://drive.google.com/open?id=1stZdMOWHXendJ7fbDDX-RKnD3hzV3TOX)
 - [Week 2 Notes](https://www.notion.so/Training-StyleGAN2-abf6f824186b4920ae70b83ea362a724)
 
 ### Homework
@@ -60,6 +60,9 @@ To-do before this class:
 - Kishi Yuma’s [hand piece](https://www.instagram.com/p/B0A8pOzDfvU/)
 - Golan Levin, [_Augmented Hand Series_](http://www.flong.com/projects/augmented-hand-series/)
 - [First Order Motion](https://aliaksandrsiarohin.github.io/first-order-model-website/)
+- [Splitting a video into frames using ffmpeg](https://stackoverflow.com/questions/10957412/fastest-way-to-extract-frames-using-ffmpeg#answer-54442867) (I‘ll record a video this week)
+- [Open Questions about Generative Adversarial Networks](https://distill.pub/2019/gan-open-problems/)
+- [StyleGAN2 Projection in RunwayML](https://open-app.runwayml.com/?model=brunovianna/Stylegan2-projector) (will get to a full demo this week)
 
 # Week 3, April 26
 
