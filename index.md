@@ -56,6 +56,10 @@ To-do before this class:
 - Finish your dataset.
 - Start training your model! Follow this [video](https://www.youtube.com/watch?v=Ij1dqSVR89M) to train in GCP.
 
+#### Notes from class
+- Kishi Yuma’s [hand piece](https://www.instagram.com/p/B0A8pOzDfvU/)
+- Golan Levin, [_Augmented Hand Series_](http://www.flong.com/projects/augmented-hand-series/)
+- [First Order Motion](https://aliaksandrsiarohin.github.io/first-order-model-website/)
 
 # Week 3, April 26
 
