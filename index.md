@@ -81,6 +81,7 @@ To-do before this class:
 
 #### Notes from class
 - Justin Pinkney's [Awesome Pretrained StyleGAN models](https://github.com/justinpinkney/awesome-pretrained-stylegan)
+- Another StyleGAN2 notebook from [Mikael Christensen](https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH)
 
 # Week 4, May 10
 
