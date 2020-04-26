@@ -65,6 +65,22 @@ To-do before this class:
 - [StyleGAN2 Projection in RunwayML](https://open-app.runwayml.com/?model=brunovianna/Stylegan2-projector) (will get to a full demo this week)
 
 # Week 3, April 26
+### Class Materials
+- [Week 2 Slides](https://docs.google.com/presentation/d/1KwIDeSW8KF9dXpRzHMy1380NXrztxxDlp12J7osldtg/edit?usp=sharing)
+- Week 2 Video
+- [Week 2 Notes](https://www.notion.so/StyleGAN-Manipulation-fbbabb84c82f42beb8691feede44fec4)
+- [StyleGAN2 Manipulation Colab Notebook](https://colab.research.google.com/drive/1_LIu91bFGCeeLPnuT8A669BYbtz0nwFI)
+
+### Homework
+- 1. Finish Training!
+- 2. Make an animation!
+    - Generate some images.
+    - Animate truncation on your favorite image.
+    - Interpolate between multiple images.
+    - Try to find an image in your model using projection.
+
+#### Notes from class
+- Justin Pinkney's [Awesome Pretrained StyleGAN models](https://github.com/justinpinkney/awesome-pretrained-stylegan)
 
 # Week 4, May 10
 
