@@ -66,9 +66,9 @@ To-do before this class:
 
 # Week 3, April 26
 ### Class Materials
-- [Week 2 Slides](https://docs.google.com/presentation/d/1KwIDeSW8KF9dXpRzHMy1380NXrztxxDlp12J7osldtg/edit?usp=sharing)
-- Week 2 Video
-- [Week 2 Notes](https://www.notion.so/StyleGAN-Manipulation-fbbabb84c82f42beb8691feede44fec4)
+- [Week 3 Slides](https://docs.google.com/presentation/d/1KwIDeSW8KF9dXpRzHMy1380NXrztxxDlp12J7osldtg/edit?usp=sharing)
+- [Week 3 Video](https://drive.google.com/open?id=1aA-UOG3D_919DW_a6QXYVMfM5S80I8L5)
+- [Week 3 Notes](https://www.notion.so/StyleGAN-Manipulation-fbbabb84c82f42beb8691feede44fec4)
 - [StyleGAN2 Manipulation Colab Notebook](https://colab.research.google.com/drive/1_LIu91bFGCeeLPnuT8A669BYbtz0nwFI)
 
 ### Homework
