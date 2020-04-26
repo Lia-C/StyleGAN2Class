@@ -72,8 +72,8 @@ To-do before this class:
 - [StyleGAN2 Manipulation Colab Notebook](https://colab.research.google.com/drive/1_LIu91bFGCeeLPnuT8A669BYbtz0nwFI)
 
 ### Homework
-- 1. Finish Training!
-- 2. Make an animation!
+- Finish Training!
+- Make an animation!
     - Generate some images.
     - Animate truncation on your favorite image.
     - Interpolate between multiple images.
