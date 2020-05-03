@@ -90,7 +90,7 @@ To-do before this class:
 - Week 4 Video
 - [Week 4 Notes](https://www.notion.so/Advanced-StyleGAN-Techniques-Projection-Audio-Reactive-262124e696914e64a4d8963dc475940e)
 - [Colab Notebook with Projection and Near Neighbors](https://colab.research.google.com/drive/1_LIu91bFGCeeLPnuT8A669BYbtz0nwFI)
-- [Colab Notebook for Audio Reaction](https://colab.research.google.com/drive/1fPbpOp6Nb2IPm-5V_Hn_Bfw1wHDQ79gz#scrollTo=1wlpnO6wftSp)
+- [Colab Notebook for Audio Reaction](https://github.com/dvschultz/ai/blob/master/StyleGAN2_AudioReactive.ipynb)
 
 ### Homework
 - Keep working on your projects and manipulating your models in Colab.
