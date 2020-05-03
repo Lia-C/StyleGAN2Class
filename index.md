@@ -56,7 +56,7 @@ To-do before this class:
 - Finish your dataset.
 - Start training your model! Follow this [video](https://www.youtube.com/watch?v=Ij1dqSVR89M) to train in GCP.
 
-#### Notes from class
+### Notes from class
 - Kishi Yuma’s [hand piece](https://www.instagram.com/p/B0A8pOzDfvU/)
 - Golan Levin, [_Augmented Hand Series_](http://www.flong.com/projects/augmented-hand-series/)
 - [First Order Motion](https://aliaksandrsiarohin.github.io/first-order-model-website/)
@@ -79,12 +79,12 @@ To-do before this class:
     - Interpolate between multiple images.
     - Try to find an image in your model using projection.
 
-#### Notes from class
+### Notes from class
 - Justin Pinkney's [Awesome Pretrained StyleGAN models](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
 - Another StyleGAN2 notebook from [Mikael Christensen](https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH)
 - A bunch of [ML Art Colab Notebooks](https://github.com/dvschultz/ml-art-colabs)
 
-# Week 4, May 10
+# Week 4, May 3
 ### Class Materials
 - [Week 4 Slides](https://docs.google.com/presentation/d/1UH26sCqahjHDcJm_PS4VLsg0az_JWOx3hyPHQFKdWqk/edit?usp=sharing)
 - Week 4 Video
@@ -96,6 +96,6 @@ To-do before this class:
 - Keep working on your projects and manipulating your models in Colab.
 - Schedule a 1:1 with us!
 
-#### Notes from class
+### Notes from class
 
-# Week 5, May 3
+# Week 5, May 10
