@@ -80,7 +80,7 @@ To-do before this class:
     - Try to find an image in your model using projection.
 
 #### Notes from class
-- Justin Pinkney's [Awesome Pretrained StyleGAN models](https://github.com/justinpinkney/awesome-pretrained-stylegan)
+- Justin Pinkney's [Awesome Pretrained StyleGAN models](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
 - Another StyleGAN2 notebook from [Mikael Christensen](https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH)
 - A bunch of [ML Art Colab Notebooks](https://github.com/dvschultz/ml-art-colabs)
 
