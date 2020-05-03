@@ -85,5 +85,17 @@ To-do before this class:
 - A bunch of [ML Art Colab Notebooks](https://github.com/dvschultz/ml-art-colabs)
 
 # Week 4, May 10
+### Class Materials
+- [Week 4 Slides](https://docs.google.com/presentation/d/1UH26sCqahjHDcJm_PS4VLsg0az_JWOx3hyPHQFKdWqk/edit?usp=sharing)
+- Week 4 Video
+- [Week 4 Notes](https://www.notion.so/Advanced-StyleGAN-Techniques-Projection-Audio-Reactive-262124e696914e64a4d8963dc475940e)
+- [Colab Notebook with Projection and Near Neighbors](https://colab.research.google.com/drive/1_LIu91bFGCeeLPnuT8A669BYbtz0nwFI)
+- [Colab Notebook for Audio Reaction](https://colab.research.google.com/drive/1fPbpOp6Nb2IPm-5V_Hn_Bfw1wHDQ79gz#scrollTo=1wlpnO6wftSp)
+
+### Homework
+- Keep working on your projects and manipulating your models in Colab.
+- Schedule a 1:1 with us!
+
+#### Notes from class
 
 # Week 5, May 3
