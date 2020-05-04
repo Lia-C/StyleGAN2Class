@@ -87,7 +87,7 @@ To-do before this class:
 # Week 4, May 3
 ### Class Materials
 - [Week 4 Slides](https://docs.google.com/presentation/d/1UH26sCqahjHDcJm_PS4VLsg0az_JWOx3hyPHQFKdWqk/edit?usp=sharing)
-- Week 4 Video
+- [Week 4 Video](https://drive.google.com/open?id=1RRFBotMnSHUKlL7nXqOaAa6s8Snc-Hsr)
 - [Week 4 Notes](https://www.notion.so/Advanced-StyleGAN-Techniques-Projection-Audio-Reactive-262124e696914e64a4d8963dc475940e)
 - [Colab Notebook with Projection and Near Neighbors](https://colab.research.google.com/drive/1_LIu91bFGCeeLPnuT8A669BYbtz0nwFI)
 - [Colab Notebook for Audio Reaction](https://github.com/dvschultz/ai/blob/master/StyleGAN2_AudioReactive.ipynb)
