@@ -96,6 +96,18 @@ To-do before this class:
 - Keep working on your projects and manipulating your models in Colab.
 - Schedule a 1:1 with us!
 
-### Notes from class
 
 # Week 5, May 10
+### Class Materials
+- [Week 5 Slides](https://docs.google.com/presentation/d/1_WV5XSvzCNT1pQd-YhMvT_UuPW2QFhH9jkqEzKscWak/edit?usp=sharing)
+- Week 5 Video
+- [Week 5 Notes](https://www.notion.so/More-Advanced-Techniques-Feature-Vectors-GANSpace-e7f0335e89f942c1aab4f2992b02c6ad)
+- [Colab Notebook: GANSpace](https://github.com/dvschultz/ai/blob/master/Ganspace_S2DD.ipynb)
+- [Colab Notebook: Audio Reactive + Feature Vectors](https://github.com/dvschultz/ai/blob/master/StyleGAN2_AudioReactive.ipynb)
+
+### Homework
+1. Please fill out our [class survey](https://forms.gle/FyYRZ8EBEeYFmrCB9)!
+2. Prep for the end-of-class showcase on May 24. [Slot signups](https://docs.google.com/spreadsheets/d/1_2wejGCqn2nnDOWojAbUfomwfD9tkwiXrAG5fO4cUIA/edit?usp=sharing)!
+    - Optional!
+    - 5-7 mins per student.
+    - Open format. Show and Tell, performance, teach, etc. Play a pre-recorded video. Present live with slides. Live demo + Q&A. Any mix of the above!
