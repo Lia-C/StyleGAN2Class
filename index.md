@@ -100,7 +100,7 @@ To-do before this class:
 # Week 5, May 10
 ### Class Materials
 - [Week 5 Slides](https://docs.google.com/presentation/d/1_WV5XSvzCNT1pQd-YhMvT_UuPW2QFhH9jkqEzKscWak/edit?usp=sharing)
-- Week 5 Video
+- [Week 5 Video](https://drive.google.com/open?id=1JHtam6L2K17W79aMNx-rN6UuXQkCpKVz)
 - [Week 5 Notes](https://www.notion.so/More-Advanced-Techniques-Feature-Vectors-GANSpace-e7f0335e89f942c1aab4f2992b02c6ad)
 - [Colab Notebook: GANSpace](https://github.com/dvschultz/ai/blob/master/Ganspace_S2DD.ipynb)
 - [Colab Notebook: Audio Reactive + Feature Vectors](https://github.com/dvschultz/ai/blob/master/StyleGAN2_AudioReactive.ipynb)
