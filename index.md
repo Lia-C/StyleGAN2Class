@@ -111,3 +111,6 @@ To-do before this class:
     - Optional!
     - 5-7 mins per student.
     - Open format. Show and Tell, performance, teach, etc. Play a pre-recorded video. Present live with slides. Live demo + Q&A. Any mix of the above!
+    
+# Student Work
+- Moises Sanabria, [Training a Non-Square StyleGAN2 model on GCP](https://github.com/Moises404/stylegan2-training-notes).
